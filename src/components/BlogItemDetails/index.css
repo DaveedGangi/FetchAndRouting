@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.ImageT {
+  height: 300px;
+  width: 600px;
+  border-radius: 17px;
+}
+.Ava {
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+  margin-right: 12px;
+}
+.flexingData {
+  display: flex;
+}
+.cardClicking {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cards {
+  width: 600px;
+}

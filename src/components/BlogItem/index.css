@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.ImageUrl {
+  height: 150px;
+  width: 200px;
+  border-radius: 12px;
+  margin-right: 12px;
+  margin-bottom: 15px;
+}
+
+.Avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 100px;
+}
+.flexingItems {
+  display: flex;
+}
